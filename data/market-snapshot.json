@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-05T13:38:16.968Z",
+  "generatedAt": "2026-10-12T14:27:24.895Z",
   "sources": {
     "prices": "Yahoo Finance — cours mensuels ajustés des dividendes (10 ans)",
     "inflation": "Eurostat — IPCH (prc_hicp_minr)",
@@ -11,84 +11,84 @@
       "name": "Amundi Index Solutions - Amundi MSCI World Swap UCITS ETF EUR Acc",
       "currency": "EUR",
       "months": 120,
-      "mu": 0.12299,
-      "sigma": 0.12861,
-      "lastPrice": 711.22998,
+      "mu": 0.12398,
+      "sigma": 0.12865,
+      "lastPrice": 718.28003,
       "lastDate": "2026-10",
       "firstDate": "2016-10",
       "maxDrawdown": 0.18615,
       "perf": {
-        "1a": 0.17038,
-        "3a": 0.17989,
-        "5a": 0.11123,
-        "10a": 0.12156
+        "1a": 0.18198,
+        "3a": 0.18378,
+        "5a": 0.11343,
+        "10a": 0.12267
       }
     },
     "PSP5.PA": {
       "name": "Amundi PEA S&P 500 UCITS ETF Acc",
       "currency": "EUR",
       "months": 120,
-      "mu": 0.14335,
-      "sigma": 0.14102,
-      "lastPrice": 60.59,
+      "mu": 0.14467,
+      "sigma": 0.1411,
+      "lastPrice": 61.39,
       "lastDate": "2026-10",
       "firstDate": "2016-10",
       "maxDrawdown": 0.17651,
       "perf": {
-        "1a": 0.1765,
-        "3a": 0.19247,
-        "5a": 0.12275,
-        "10a": 0.14271
+        "1a": 0.19204,
+        "3a": 0.1977,
+        "5a": 0.1257,
+        "10a": 0.14421
       }
     },
     "PUST.PA": {
       "name": "Amundi PEA Nasdaq-100 UCITS ETF Acc",
       "currency": "EUR",
       "months": 120,
-      "mu": 0.19904,
-      "sigma": 0.1794,
-      "lastPrice": 110.22,
+      "mu": 0.199,
+      "sigma": 0.17946,
+      "lastPrice": 110.16,
       "lastDate": "2026-10",
       "firstDate": "2016-10",
       "maxDrawdown": 0.29757,
       "perf": {
-        "1a": 0.25693,
-        "3a": 0.2375,
-        "5a": 0.1419,
-        "10a": 0.20075
+        "1a": 0.25624,
+        "3a": 0.23728,
+        "5a": 0.14178,
+        "10a": 0.20069
       }
     },
     "EXSA.DE": {
       "name": "iShares STOXX Europe 600 UCITS ETF (DE) EUR (Dist)",
       "currency": "EUR",
       "months": 120,
-      "mu": 0.09809,
-      "sigma": 0.13575,
-      "lastPrice": 62.77,
+      "mu": 0.09836,
+      "sigma": 0.13574,
+      "lastPrice": 62.94,
       "lastDate": "2026-10",
       "firstDate": "2016-10",
       "maxDrawdown": 0.22974,
       "perf": {
-        "1a": 0.12584,
-        "3a": 0.1417,
-        "5a": 0.09455,
-        "10a": 0.09295
+        "1a": 0.12889,
+        "3a": 0.14273,
+        "5a": 0.09514,
+        "10a": 0.09324
       }
     },
     "PAEEM.PA": {
       "name": "Amundi PEA Émergent (MSCI Emerging) ESG Transition UCITS ETF Acc",
       "currency": "EUR",
       "months": 90,
-      "mu": 0.10666,
-      "sigma": 0.15149,
-      "lastPrice": 37.995,
+      "mu": 0.1025,
+      "sigma": 0.15148,
+      "lastPrice": 36.83,
       "lastDate": "2026-10",
       "firstDate": "2019-04",
       "maxDrawdown": 0.22888,
       "perf": {
-        "1a": 0.34215,
-        "3a": 0.2325,
-        "5a": 0.10337,
+        "1a": 0.301,
+        "3a": 0.21977,
+        "5a": 0.09652,
         "10a": null
       }
     },
@@ -96,50 +96,50 @@
       "name": "iShares Core MSCI World UCITS ETF USD (Acc)",
       "currency": "EUR",
       "months": 120,
-      "mu": 0.12441,
-      "sigma": 0.12995,
-      "lastPrice": 130.78999,
+      "mu": 0.12543,
+      "sigma": 0.12999,
+      "lastPrice": 132.12,
       "lastDate": "2026-10",
       "firstDate": "2016-10",
       "maxDrawdown": 0.1861,
       "perf": {
-        "1a": 0.17406,
-        "3a": 0.18314,
-        "5a": 0.11373,
-        "10a": 0.12296
+        "1a": 0.186,
+        "3a": 0.18714,
+        "5a": 0.11599,
+        "10a": 0.12409
       }
     },
     "IEAC.AS": {
       "name": "iShares Core € Corp Bond UCITS ETF EUR (Dist)",
       "currency": "EUR",
       "months": 120,
-      "mu": 0.00914,
-      "sigma": 0.04822,
-      "lastPrice": 115.75,
+      "mu": 0.00956,
+      "sigma": 0.04823,
+      "lastPrice": 116.24,
       "lastDate": "2026-10",
       "firstDate": "2016-10",
       "maxDrawdown": 0.16103,
       "perf": {
-        "1a": -0.0142,
-        "3a": 0.02964,
-        "5a": -0.00207,
-        "10a": 0.00801
+        "1a": -0.01003,
+        "3a": 0.03109,
+        "5a": -0.00123,
+        "10a": 0.00843
       }
     },
     "VWCE.DE": {
       "name": "Vanguard FTSE All-World UCITS ETF USD Accumulation",
       "currency": "EUR",
       "months": 87,
-      "mu": 0.13268,
-      "sigma": 0.1328,
-      "lastPrice": 172.42,
+      "mu": 0.13336,
+      "sigma": 0.13285,
+      "lastPrice": 173.25999,
       "lastDate": "2026-10",
       "firstDate": "2019-07",
       "maxDrawdown": 0.19138,
       "perf": {
-        "1a": 0.19042,
-        "3a": 0.18683,
-        "5a": 0.11302,
+        "1a": 0.19622,
+        "3a": 0.18875,
+        "5a": 0.11411,
         "10a": null
       }
     },
@@ -147,82 +147,82 @@
       "name": "iShares Core MSCI EM IMI UCITS ETF USD (Acc)",
       "currency": "EUR",
       "months": 120,
-      "mu": 0.09795,
-      "sigma": 0.14369,
-      "lastPrice": 50.08,
+      "mu": 0.09513,
+      "sigma": 0.14366,
+      "lastPrice": 48.69,
       "lastDate": "2026-10",
       "firstDate": "2016-10",
       "maxDrawdown": 0.23039,
       "perf": {
-        "1a": 0.31551,
-        "3a": 0.21271,
-        "5a": 0.10203,
-        "10a": 0.09158
+        "1a": 0.27899,
+        "3a": 0.20138,
+        "5a": 0.09584,
+        "10a": 0.08851
       }
     },
     "SMC.PA": {
       "name": "State Street SPDR MSCI Europe Small Cap UCITS ETF",
       "currency": "EUR",
       "months": 120,
-      "mu": 0.08732,
-      "sigma": 0.16837,
-      "lastPrice": 386.75,
+      "mu": 0.08754,
+      "sigma": 0.16836,
+      "lastPrice": 387.60001,
       "lastDate": "2026-10",
       "firstDate": "2016-10",
       "maxDrawdown": 0.29631,
       "perf": {
-        "1a": 0.105,
-        "3a": 0.12739,
-        "5a": 0.04127,
-        "10a": 0.07589
+        "1a": 0.10743,
+        "3a": 0.12822,
+        "5a": 0.04172,
+        "10a": 0.07612
       }
     },
     "SPYW.DE": {
       "name": "State Street SPDR S&P Euro Dividend Aristocrats UCITS ETF",
       "currency": "EUR",
       "months": 120,
-      "mu": 0.08137,
-      "sigma": 0.14323,
-      "lastPrice": 29.39,
+      "mu": 0.0822,
+      "sigma": 0.14319,
+      "lastPrice": 29.635,
       "lastDate": "2026-10",
       "firstDate": "2016-10",
       "maxDrawdown": 0.27659,
       "perf": {
-        "1a": 0.1257,
-        "3a": 0.14259,
-        "5a": 0.0957,
-        "10a": 0.0737
+        "1a": 0.13509,
+        "3a": 0.14576,
+        "5a": 0.09752,
+        "10a": 0.0746
       }
     },
     "IEGA.AS": {
       "name": "iShares Core € Govt Bond UCITS ETF EUR (Dist)",
       "currency": "EUR",
       "months": 120,
-      "mu": -0.0036,
+      "mu": -0.00367,
       "sigma": 0.05417,
-      "lastPrice": 104.66,
+      "lastPrice": 104.58,
       "lastDate": "2026-10",
       "firstDate": "2016-10",
       "maxDrawdown": 0.21611,
       "perf": {
-        "1a": -0.03416,
-        "3a": 0.01013,
-        "5a": -0.03105,
-        "10a": -0.00505
+        "1a": -0.0349,
+        "3a": 0.00987,
+        "5a": -0.0312,
+        "10a": -0.00513
       }
     },
     "CSH2.PA": {
       "name": "Multi Units Luxembourg - Amundi Smart Overnight Return UCITS ETF Acc",
       "currency": "EUR",
       "months": 19,
-      "mu": 0.02169,
-      "sigma": 0.00205,
-      "lastPrice": 110.18,
+      "mu": 0.02192,
+      "sigma": 0.00194,
+      "lastPrice": 110.22,
       "lastDate": "2026-10",
       "firstDate": "2025-03",
       "maxDrawdown": 0,
       "perf": {
-        "1a": 0.02113,
+        "1a": 0.0215,
         "3a": null,
         "5a": null,
         "10a": null
@@ -232,33 +232,33 @@
       "name": "Invesco Physical Gold ETC",
       "currency": "EUR",
       "months": 120,
-      "mu": 0.12867,
-      "sigma": 0.13973,
-      "lastPrice": 356.22,
+      "mu": 0.12952,
+      "sigma": 0.13983,
+      "lastPrice": 359.20001,
       "lastDate": "2026-10",
       "firstDate": "2016-10",
       "maxDrawdown": 0.20706,
       "perf": {
-        "1a": 0.01975,
-        "3a": 0.2869,
-        "5a": 0.1855,
-        "10a": 0.12627
+        "1a": 0.02828,
+        "3a": 0.29048,
+        "5a": 0.18747,
+        "10a": 0.1272
       }
     },
     "BTC-EUR": {
       "name": "Bitcoin EUR",
       "currency": "EUR",
       "months": 119,
-      "mu": 0.70776,
-      "sigma": 0.68495,
-      "lastPrice": 76844.96875,
+      "mu": 0.70417,
+      "sigma": 0.68504,
+      "lastPrice": 74112.32031,
       "lastDate": "2026-10",
       "firstDate": "2016-11",
       "maxDrawdown": 0.74393,
       "perf": {
-        "1a": -0.18642,
-        "3a": 0.32851,
-        "5a": 0.07688,
+        "1a": -0.21535,
+        "3a": 0.31257,
+        "5a": 0.06911,
         "10a": null
       }
     },
@@ -266,93 +266,93 @@
       "name": "Ethereum EUR",
       "currency": "EUR",
       "months": 106,
-      "mu": 0.5361,
-      "sigma": 0.87593,
-      "lastPrice": 2424.54004,
+      "mu": 0.52836,
+      "sigma": 0.87615,
+      "lastPrice": 2260.46997,
       "lastDate": "2026-10",
       "firstDate": "2017-12",
       "maxDrawdown": 0.89617,
       "perf": {
-        "1a": -0.269,
-        "3a": 0.12185,
-        "5a": -0.08159,
+        "1a": -0.31846,
+        "3a": 0.09595,
+        "5a": -0.09437,
         "10a": null
       }
     }
   },
   "correlations": {
     "8PSG.DE": {
-      "BTC-EUR": -0.071,
-      "CW8.PA": -0.011,
-      "ETH-EUR": -0.043,
-      "EXSA.DE": 0.008,
-      "IEAC.AS": 0.102,
-      "IEGA.AS": 0.131,
-      "IS3N.DE": 0.097,
-      "IWDA.AS": -0.007,
-      "PAEEM.PA": 0.115,
-      "PSP5.PA": -0.01,
-      "PUST.PA": -0.02,
-      "SMC.PA": 0.02,
-      "SPYW.DE": 0.012,
-      "VWCE.DE": 0.009
+      "BTC-EUR": -0.07,
+      "CW8.PA": -0.01,
+      "ETH-EUR": -0.04,
+      "EXSA.DE": 0.007,
+      "IEAC.AS": 0.103,
+      "IEGA.AS": 0.132,
+      "IS3N.DE": 0.098,
+      "IWDA.AS": -0.006,
+      "PAEEM.PA": 0.118,
+      "PSP5.PA": -0.009,
+      "PUST.PA": -0.019,
+      "SMC.PA": 0.019,
+      "SPYW.DE": 0.011,
+      "VWCE.DE": 0.01
     },
     "BTC-EUR": {
-      "CW8.PA": 0.14,
+      "CW8.PA": 0.141,
       "ETH-EUR": 0.748,
       "EXSA.DE": 0.093,
       "IEAC.AS": -0.041,
       "IEGA.AS": -0.022,
       "IS3N.DE": 0.124,
-      "IWDA.AS": 0.139,
+      "IWDA.AS": 0.14,
       "PAEEM.PA": 0.115,
-      "PSP5.PA": 0.148,
+      "PSP5.PA": 0.149,
       "PUST.PA": 0.146,
-      "SMC.PA": 0.108,
+      "SMC.PA": 0.109,
       "SPYW.DE": 0.046,
-      "VWCE.DE": 0.14
+      "VWCE.DE": 0.141
     },
     "CW8.PA": {
-      "ETH-EUR": 0.089,
-      "EXSA.DE": 0.813,
+      "ETH-EUR": 0.091,
+      "EXSA.DE": 0.812,
       "IEAC.AS": 0.602,
-      "IEGA.AS": 0.352,
-      "IS3N.DE": 0.672,
+      "IEGA.AS": 0.353,
+      "IS3N.DE": 0.673,
       "IWDA.AS": 0.999,
-      "PAEEM.PA": 0.616,
+      "PAEEM.PA": 0.617,
       "PSP5.PA": 0.981,
       "PUST.PA": 0.87,
-      "SMC.PA": 0.787,
-      "SPYW.DE": 0.671,
+      "SMC.PA": 0.786,
+      "SPYW.DE": 0.67,
       "VWCE.DE": 0.992
     },
     "ETH-EUR": {
       "EXSA.DE": 0.001,
-      "IEAC.AS": -0.127,
+      "IEAC.AS": -0.126,
       "IEGA.AS": -0.119,
       "IS3N.DE": 0.124,
-      "IWDA.AS": 0.093,
-      "PAEEM.PA": 0.088,
-      "PSP5.PA": 0.117,
-      "PUST.PA": 0.178,
-      "SMC.PA": 0.013,
+      "IWDA.AS": 0.094,
+      "PAEEM.PA": 0.089,
+      "PSP5.PA": 0.119,
+      "PUST.PA": 0.18,
+      "SMC.PA": 0.014,
       "SPYW.DE": -0.083,
-      "VWCE.DE": 0.025
+      "VWCE.DE": 0.027
     },
     "EXSA.DE": {
       "IEAC.AS": 0.648,
-      "IEGA.AS": 0.366,
+      "IEGA.AS": 0.367,
       "IS3N.DE": 0.662,
-      "IWDA.AS": 0.814,
-      "PAEEM.PA": 0.629,
-      "PSP5.PA": 0.703,
+      "IWDA.AS": 0.813,
+      "PAEEM.PA": 0.63,
+      "PSP5.PA": 0.702,
       "PUST.PA": 0.54,
       "SMC.PA": 0.937,
       "SPYW.DE": 0.925,
-      "VWCE.DE": 0.827
+      "VWCE.DE": 0.826
     },
     "IEAC.AS": {
-      "IEGA.AS": 0.837,
+      "IEGA.AS": 0.838,
       "IS3N.DE": 0.538,
       "IWDA.AS": 0.603,
       "PAEEM.PA": 0.553,
@@ -363,43 +363,43 @@
       "VWCE.DE": 0.656
     },
     "IEGA.AS": {
-      "IS3N.DE": 0.299,
+      "IS3N.DE": 0.298,
       "IWDA.AS": 0.351,
-      "PAEEM.PA": 0.355,
-      "PSP5.PA": 0.307,
-      "PUST.PA": 0.345,
+      "PAEEM.PA": 0.354,
+      "PSP5.PA": 0.308,
+      "PUST.PA": 0.346,
       "SMC.PA": 0.368,
       "SPYW.DE": 0.336,
       "VWCE.DE": 0.439
     },
     "IS3N.DE": {
-      "IWDA.AS": 0.673,
+      "IWDA.AS": 0.675,
       "PAEEM.PA": 0.987,
-      "PSP5.PA": 0.602,
-      "PUST.PA": 0.579,
-      "SMC.PA": 0.658,
+      "PSP5.PA": 0.604,
+      "PUST.PA": 0.581,
+      "SMC.PA": 0.659,
       "SPYW.DE": 0.547,
-      "VWCE.DE": 0.742
+      "VWCE.DE": 0.743
     },
     "IWDA.AS": {
-      "PAEEM.PA": 0.617,
+      "PAEEM.PA": 0.618,
       "PSP5.PA": 0.982,
       "PUST.PA": 0.87,
-      "SMC.PA": 0.788,
-      "SPYW.DE": 0.672,
+      "SMC.PA": 0.787,
+      "SPYW.DE": 0.671,
       "VWCE.DE": 0.992
     },
     "PAEEM.PA": {
-      "PSP5.PA": 0.542,
-      "PUST.PA": 0.526,
-      "SMC.PA": 0.613,
-      "SPYW.DE": 0.516,
-      "VWCE.DE": 0.697
+      "PSP5.PA": 0.544,
+      "PUST.PA": 0.528,
+      "SMC.PA": 0.614,
+      "SPYW.DE": 0.517,
+      "VWCE.DE": 0.698
     },
     "PSP5.PA": {
       "PUST.PA": 0.906,
-      "SMC.PA": 0.686,
-      "SPYW.DE": 0.551,
+      "SMC.PA": 0.685,
+      "SPYW.DE": 0.55,
       "VWCE.DE": 0.965
     },
     "PUST.PA": {
@@ -409,10 +409,10 @@
     },
     "SMC.PA": {
       "SPYW.DE": 0.9,
-      "VWCE.DE": 0.805
+      "VWCE.DE": 0.804
     },
     "SPYW.DE": {
-      "VWCE.DE": 0.693
+      "VWCE.DE": 0.692
     }
   },
   "macro": {
@@ -427,13 +427,13 @@
       "label": "Inflation IPCH zone euro (glissement annuel)"
     },
     "estr": {
-      "value": 0.0244,
-      "period": "2026-10-02",
+      "value": 0.02437,
+      "period": "2026-10-09",
       "label": "€STR (taux monétaire au jour le jour)"
     },
     "oat10": {
-      "value": 0.04,
-      "period": "2026-08",
+      "value": 0.0444,
+      "period": "2026-09",
       "label": "Taux de l'État français à 10 ans"
     }
   },
